@@ -10,3 +10,5 @@ $ cd PTAM-linux-go
 $ bash ./PTAM-linux-go.bash 
 
 Modifications are placed in PTAM-linux-cv2.3/hack/PTAM/PTAM-r114-linux.patch
+
+check also https://charmie11.wordpress.com/2014/09/23/ptam-on-ubuntu-14-04/
